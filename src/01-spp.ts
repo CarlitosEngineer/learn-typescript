@@ -1,5 +1,0 @@
-// CODE HERE
-
-/* ALL ABOUT THE EXERCISE HERE:
-    
-*/
