@@ -31,34 +31,40 @@
     - Non-null Assertion
     - satisfies keyword
 
-# Temario
+---
+# Desarrollo
+---
 
-- Primitive Types
-    - boolean
-    - number
-    - string
-    - void
-    - undefined
-    - null
+# Primitive Types
 
-- Object Types
-    - Interface
-    - Class
-    - Enum
-    - Array
-    - Tuple
-    - Object
+- boolean
+- number
+- string
+- void
+- undefined
+- null
 
-- Top Types
-    - unknown
-    - any
+# Object Types
+- Interface
+- Class
+- Enum
+- Array
+- Tuple
+- Object
 
-- Bottom Types
-    - never
+# Top Types
 
-- Assertions
-    - as [type]
-    - as any
-    - as const
-    - Non-null Assertion
-    - satisfies keyword
+- los Top Types son tipos tan amplios que cualquier otro tipo puede ser asignado a ellos.
+
+- unknown
+- any
+
+# Bottom Types
+- never
+
+# Assertions
+- as [type]
+- as any
+- as const
+- Non-null Assertion
+- satisfies keyword
