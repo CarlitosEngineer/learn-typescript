@@ -1,0 +1,25 @@
+{
+  "name": "learn-typescript",
+  "version": "1.0.0",
+  "description": "- This repository was created with the intention of practicing and better understanding the TypeScript programming language. As an additional point, it is clarified that the repository will solve third-party programming problems \"I DO NOT CREATE THE PROBLEMS, I ONLY SOLVE THEM.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlitosEngineer/learn-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/CarlitosEngineer/learn-typescript/issues"
+  },
+  "homepage": "https://github.com/CarlitosEngineer/learn-typescript#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
